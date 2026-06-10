@@ -24,6 +24,7 @@ data cleaning, pivot tables, and an interactive dashboard with slicers.
 | Commute Distance | 0-1 / 1-2 / 2-5 / 5-10 / 10+ Miles |
 | Region | Europe / North America / Pacific |
 | Age | Customer age |
+| Age Bracket | Derived column — Young 0-30 / Middle Age 31-54 / Senior 55+ |
 | Purchased Bike | Yes / No (Target Variable) |
 
 **Total Records:** ~1,028 rows
